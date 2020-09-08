@@ -6,7 +6,7 @@ This repository holds the Go website server code and content.
 
 To download and run the golang.org web server locally:
 
- - `git clone https://go.googlesource.com/website`
+ - `git clone https://github.com/isaccanedo/go-website`
  - `cd website`
  - `go run ./cmd/golangorg`
  - Open http://localhost:6060/ in your browser.
